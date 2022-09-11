@@ -7,12 +7,148 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "While New York City schools welcomed K-12 students back for their first day Thursday, Sept. 8, about 700 teachers and staff members will not be returning this fall. Though the effects of major budget cuts approved early in the summer have been felt in schools across the city, in West Harlem they have had an especially resounding impact."
+          },
+          {
+            "type": "text",
+            "value": "Community Boards 9 and 10, which include Morningside Heights, West Harlem, and Central Harlem, saw a decrease of 11 percent in allocation per student. While Community Board 7, the Upper West Side, saw a nearly identical decrease, the difference in the districts’ ability to fundraise through PTA efforts has resulted in the most disparity."
+          },
+          {
+            "type": "text",
+            "value": "Tod Roulette, a special education teacher at A. Philip Randolph Campus High School, said his school has had to cut staff due to the budget cuts, which places a burden on remaining staff."
+          },
+          {
+            "type": "text",
+            "value": "“[Excessed staff means] more paperwork that teachers have to do that the administration would normally do,” Roulette said. “It’s just very difficult. … It takes longer to do your work.”"
+          },
+          {
+            "type": "text",
+            "value": "The battle over the Department of Education’s $469 million budget cuts to schools has dragged on since late spring, involving teachers, parents, and even the courts. Most recently, on Tuesday, the City Council passed a resolution calling on Mayor Eric Adams to reverse the cuts, which the Council itself approved in June."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "meanfsf.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "percentchangefsf.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“Subjects that actually allow students to express themselves, which fortify the things that happen in a classroom—those are the things that are getting eliminated in our schools,” Kaliris Salas-Ramirez, who serves on the Panel for Educational Policy, said. “I’ve seen that in a lot of our West Harlem schools and across the city.”"
+          },
+          {
+            "type": "text",
+            "value": "Appointed by Manhattan Borough President Mark Levine, Salas-Ramirez represents all Manhattan public schools on the PEP, which is the governing body of the NYC Department of Education."
+          },
+          {
+            "type": "text",
+            "value": "In her work, Salas-Ramirez has found that a main strategic response from schools to such cuts is fundraising from PTAs. However, some schools are unable to make up for the budget losses through such means, and they face extensive cuts to enrichment programs—such as music, art, and physical education—and behavioral services, such as social workers and intervention coaches."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "ptaperschool.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "“You have some schools in Chelsea that are bringing in millions of dollars. I actually spoke to a principal at the beginning of the summer, and she was frustrated her school was getting $800,000 cut, but she was like, ‘I guess I can ask my [PTA] for money,’” Salas-Ramirez said. “I have schools in Harlem, in both District 4 and District 5, that can’t even get $100 into their [PTA] account.”"
+          },
+          {
+            "type": "text",
+            "value": "In CB7, which covers the Upper West Side, the average PTA income per student was $1228 during the 2018-19 school year. In contrast, in CB9 and CB10, which cover West and Central Harlem, the averages were $91 and $35 respectively."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "avgptabycb.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Shaneeka Wilson, co-chair of the youth, education, and libraries subcommittee of Community Board 9, similarly noted that PTA fundraising plays a huge role in the school disparities. She said rent increases in CB9 after the pandemic have made it even more difficult for parents to give to schools."
+          },
+          {
+            "type": "text",
+            "value": "“This is not the year for [West Harlem] parents to reach in their pocket to support schools when the schools should be supporting us,” Wilson said. “We’re already doing the most we can. … Now on top of that, I’ve got to find a way to stretch my income further to make up for the lack of concern from the DOE and from the mayor.”"
+          },
+          {
+            "type": "text",
+            "value": "To Wilson, the trauma induced by the pandemic, including the losses of loved ones due to COVID-19 and the myriad of social and emotional hardships that have beset children, makes it even more important for schools to support students."
+          },
+          {
+            "type": "text",
+            "value": "“It’s almost as if [the students’] outlook is very negative,” Wilson said. “And it reminds me of when I was growing up in Harlem in the ’80s and the ’90s. And it had got out of that for a little bit and it feels like we’re right back in there, almost as if we didn’t make any progress. The pandemic set us back in so many ways.”"
+          },
+          {
+            "type": "text",
+            "value": "Salas-Ramirez said the scope of the budget cuts’ impact stretches far beyond this academic year and into long-term enrollment trends."
+          },
+          {
+            "type": "text",
+            "value": "“Schools are just going to continue to starve—already disinvested schools—which will lead to school closures and which will also encourage parents to enroll in charter schools that count on corporate money,” Salas-Ramirez said. “It’s really disturbing to see how this administration that claims to be a product of public schools … [is] actively disenfranchising Black and Latino communities.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "enrollment.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "In the short term, however, Roulette is concerned about how the hits to supplemental programs will affect students. Beyond his special education position at APRCHS, he also serves as faculty adviser for the Gay-Straight Alliance and helps out with the mens’ tennis team."
+          },
+          {
+            "type": "text",
+            "value": "“Those budgets are being cut,” Roulette said. “Those are the things that [help] the students acclimate themselves, [that they] really need just as a way to let off steam, to socialize, to have … some time away from academics but to bond with other students.”"
+          },
+          {
+            "type": "text",
+            "value": "Roulette also raised concerns about how well schools will be able to support the migrant children who arrived in the city in August. Approximately 1,000 children are expected to enroll in New York City schools this fall through Project Open Arms."
+          },
+          {
+            "type": "text",
+            "value": "“How do we meet their needs specifically around mental health and language?” Roulette said. “If you’ve got Spanish-speaking and Haitian-speaking kids, I just don’t know what that’s going to look like.”"
+          },
+          {
+            "type": "text",
+            "value": "Socioeconomic factors in school budgets such as school-specific sources of PTA fundraising place West Harlem children at a critical disadvantage, which Wilson believes the city has not fully considered."
+          },
+          {
+            "type": "text",
+            "value": "“Our kids deserve the same benefits as anybody else,” Wilson said. “I’m just tired of our children getting the short end of the stick always. Always.”"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Editor Esther Sun can be contacted at </i><a href=\"mailto:esther.sun@columbiaspectator.com\"><i>esther.sun@columbiaspectator.com</i></a><i>. Follow her on Twitter </i><a href=\"https://twitter.com/esthercsun\"><i>@esthercsun</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Graphics Editor Devon Campbell can be contacted at </i><a href=\"mailto:devon.campbell@columbiaspectator.com\"><i>devon.campbell@columbiaspectator.com</i></a><i>. </i>"
+          },
+          {
+            "type": "text",
+            "value": "<b>Want to keep up with breaking news? Subscribe to our</b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b> email newsletter</b></a><b> and like Spectator on </b><a href=\"https://www.facebook.com/columbiaspectator\"><b>Facebook</b></a><b>.</b>"
+          }
+        ],
+        "headline": "West Harlem schools face challenges due to citywide budget cuts and limited PTA fundraising capacities",
+        "date": "September 9, 2022",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Esther-Sun\">Esther Sun</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FW72RKXBY5EH7L4Z2LCUL3W2MQ.jpg",
+        "cover_caption": "Photo by Genevieve Depke",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1rlPYVsserTT_xGERYpr3xdoCanej7l5mguzq9hYyIDM/edit"
       }
     }
   }
